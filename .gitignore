@@ -1,0 +1,7 @@
+/build/
+/build-*/
+*.swp
+/.cache/
+
+# CMake-generated files:
+CMakeFiles/
